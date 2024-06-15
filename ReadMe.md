@@ -1,6 +1,6 @@
 # T3-CRUD-APP
 
-![Project Image](path/to/your/image.png)
+![Project Image](readme-image.png)
 
 ## Table of Contents
 - [Introduction](#introduction)

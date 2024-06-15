@@ -6,12 +6,16 @@ const idSchema = z.object({ id: z.string() });
 const userSchema = z.object({
   name: z.string(),
   email: z.string(),
+  location: z.string(),
+  role: z.string(),
 });
 
 const userUpdateSchema = z.object({
   id: z.string(),
   name: z.string(),
   email: z.string(),
+  location: z.string(),
+  role: z.string(),
 });
 
 export const exampleRouter = createTRPCRouter({

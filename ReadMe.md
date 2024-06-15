@@ -135,9 +135,3 @@ Here are the main API endpoints available in the application:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-### Notes:
-1. **Image Placeholder**: Replace `path/to/your/image.png` with the actual path to your project's image.
-2. **Environment Variables**: Ensure you provide the correct database URL in the `.env` file.
-3. **Dependencies**: Ensure all required packages are included in your `package.json` file.
